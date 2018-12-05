@@ -41,4 +41,4 @@ dependencies:
   - zlib
   - pip:
       - pywi==0.3.dev11
-      - pywicta=0.3.dev2
+      - pywicta==0.3.dev2

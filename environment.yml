@@ -1,0 +1,44 @@
+name: pywi-cta-dev
+channels:
+  - cta-observatory
+  - conda-forge
+dependencies:
+  - astropy
+  - bokeh
+  - ctapipe=0.6.1
+  - ctapipe-extra=0.2.*
+  - cython
+  - gammapy
+  - graphviz
+  - iminuit
+  - ipython
+  - ipywidgets
+  - jupyter
+  - matplotlib
+  - notebook
+  - numba
+  - numpy
+  - numpydoc
+  - pandas
+  - pep8
+  - pillow
+  - psutil
+  - pyhessio=2.0.1
+  - pytables
+  - pytest
+  - pytest-cov
+  - python=3.6
+  - readline
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - setuptools
+  - tqdm
+  - traitlets
+  - wheel
+  - xz
+  - yaml
+  - zlib
+  - pip:
+      - pywi
+      - pywi-cta

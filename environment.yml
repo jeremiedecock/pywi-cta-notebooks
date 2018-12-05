@@ -41,4 +41,4 @@ dependencies:
   - zlib
   - pip:
       - pywi
-      - pywi-cta
+      - pywicta

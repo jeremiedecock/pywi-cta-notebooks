@@ -7,5 +7,6 @@ dependencies:
   - ctapipe=0.6.1
   - pyhessio=2.0.1
   - pip:
-      - pywi==0.3.dev11
+      - ailib==0.3.dev1
+      - pywi==0.3.dev12
       - pywicta==0.4.dev1

@@ -6,8 +6,8 @@ Copyright (c) 2016-2018 Jeremie DECOCK (www.jdhp.org)
 
 * PyWI-CTA web site: http://cta.pywi.org/
 
-Recommended Jupyter extensions
-==============================
+Recommended JupyterLab extensions
+=================================
 
 ::
 

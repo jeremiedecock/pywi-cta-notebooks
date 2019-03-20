@@ -6,6 +6,15 @@ Copyright (c) 2016-2018 Jeremie DECOCK (www.jdhp.org)
 
 * PyWI-CTA web site: http://cta.pywi.org/
 
+Recommended Jupyter extensions
+==============================
+
+::
+
+    jupyter labextension install @jupyterlab/toc
+    jupyter labextension install @jupyter-widgets/jupyterlab-manager
+    jupyter labextension install @ijmbarr/jupyterlab_spellchecker
+
 Tutorial Notebooks
 ==================
 

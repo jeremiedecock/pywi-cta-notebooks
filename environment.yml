@@ -8,4 +8,4 @@ dependencies:
   - pyhessio=2.0.1
   - pip:
       - pywi==0.3.dev12
-      - pywicta==0.4.dev1
+      - pywicta==0.4.dev2
